@@ -1,7 +1,7 @@
 # INTERFACE-force-field-and-surface-models
 A force field for the simulation of inorganic-organic interfaces (INTERFACE-CHARMM, INTERFACE-PCFF)
  
-Upload a .zip file containing all parameters and surface models here:
+Download a .zip file containing all parameters and surface models here:
 
 http://bionano.uakron.edu/the-interface-force-field/
 
