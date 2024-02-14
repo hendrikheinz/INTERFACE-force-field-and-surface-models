@@ -3,7 +3,7 @@ A force field for the simulation of inorganic-organic interfaces (INTERFACE-CHAR
  
 Download a .zip file containing all parameters and surface models here:
 
-http://bionano.uakron.edu/the-interface-force-field/
+https://bionanostructures.com/interface-md/
 
 Currently, the PCFF-INTERFACE, CHARMM-INTERFACE, and CVFF-INTERFACE force fields are included. They contain accurate parameters for the following inorganic compounds merged into the the standard organic/biological force fields:
 
