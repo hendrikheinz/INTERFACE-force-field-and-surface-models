@@ -17,4 +17,4 @@ Currently, the PCFF-INTERFACE, CHARMM-INTERFACE, and CVFF-INTERFACE force fields
 
 Reference: Heinz et al Langmuir 2013, 29, 1754 (feature article) with recent improvements and extensions
 
-Note: The force field files are listed individually below, however, surface models with ready-to-use atom types and charges, utility programs, and documentation must be downloaded at the above link.
+Note: The force field files are listed individually below, however, surface models with ready-to-use atom types and charges, utility programs, and documentation must be downloaded at the above link (GitHub does not provide sufficient space).
